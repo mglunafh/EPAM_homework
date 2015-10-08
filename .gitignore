@@ -59,3 +59,6 @@ $RECYCLE.BIN/
 *.lnk
 /MatrixOfSpecialForm/nbproject/private/
 /MatrixOfSpecialForm/build/
+/MyListWithLastReference/nbproject/private/
+/MyListWithLastReference/build/
+/GenericCollections/build/
